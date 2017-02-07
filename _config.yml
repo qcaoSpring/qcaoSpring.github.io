@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Site Title
+title: qcao title
 locale: en_US
 description: Describe your website here.
 logo: site-logo.png
@@ -36,13 +36,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Qiong Cao
   avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
+  email: ivyqcao@gmail.com
+  disqus-shortname: qcao
   twitter: #username
   facebook: #username
-  github: #username
+  github: qcaoSpring
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
