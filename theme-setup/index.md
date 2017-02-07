@@ -76,7 +76,7 @@ so-simple-theme/
 ├── _posts/                      # MarkDown formatted posts
 ├── _sass/                       # Sass stylesheets
 ├── about/                       # sample about page
-├── articles/                    # sample articles category page
+├── academic/                    # sample academic category page
 ├── assets/
 |    ├── css/                    # compiled stylesheets
 |    ├── fonts/                  # webfonts
@@ -162,9 +162,9 @@ These two layouts are very similar. Both have an author sidebar, allow for large
 
 ### Categories
 
-In the sample posts folder you may have noticed `categories: articles` in the YAML front matter. Categories can be used to group posts into sub-folders. If you decide to rename or add categories you will need to create new category index pages.
+In the sample posts folder you may have noticed `categories: academic` in the YAML front matter. Categories can be used to group posts into sub-folders. If you decide to rename or add categories you will need to create new category index pages.
 
-For example. Say you want to group all your posts under blog/ instead of articles/. In your post add `categories: blog` to the YAML front matter, rename or duplicate articles/index.md to blog/index.md and update the *for loop* to limit posts to just the blog category.
+For example. Say you want to group all your posts under blog/ instead of academic/. In your post add `categories: blog` to the YAML front matter, rename or duplicate academic/index.md to blog/index.md and update the *for loop* to limit posts to just the blog category.
 
 ```liquid
 {% raw %}
@@ -209,7 +209,7 @@ Not sure if this only effects Kramdown or if it's an issue with Markdown in gene
 
 ### Link Post Type
 
-So Simple Theme supports **link posts**, made famous by John Gruber. To activate just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done. Here's an [example of a link post]({{ site.url }}/articles/sample-link-post) if you need a visual.
+So Simple Theme supports **link posts**, made famous by John Gruber. To activate just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done. Here's an [example of a link post]({{ site.url }}/academic/sample-link-post) if you need a visual.
 
 ### Author Override
 

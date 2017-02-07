@@ -1953,7 +1953,7 @@ $.magnificPopup.registerModule(RETINA_NS, {
 /*>>fastclick*/
 /**
  * FastClick event implementation. (removes 300ms delay on touch devices)
- * Based on https://developers.google.com/mobile/articles/fast_buttons
+ * Based on https://developers.google.com/mobile/academic/fast_buttons
  *
  * You may use it outside the Magnific Popup by calling just:
  *

@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: qcao title
+title: Qiong Cao
 locale: en_US
-description: Describe your website here.
+description: Think over the tide; Sing along the wind.
 logo: site-logo.png
 search: true
 url: https://qcaoSpring.github.io
@@ -40,20 +40,6 @@ owner:
   avatar: bio-photo.jpg
   email: ivyqcao@gmail.com
   disqus-shortname: qcao
-  twitter: #username
-  facebook: #username
+  facebook: qcaoSpring
   github: qcaoSpring
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
+  linkedin: qiong-cao-78a10a71
